@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "solar": {
+      "command": "npx",
+      "args": ["solar-mcp"],
+      "env": {
+        "UPSTAGE_API_KEY": "your-api-key-here"
+      }
+    }
+  }
+}
