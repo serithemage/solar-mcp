@@ -1,6 +1,6 @@
 {
   "name": "solar-mcp",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "MCP server for Upstage Solar Pro2 and Solar Mini models",
   "type": "module",
   "main": "dist/index.js",
